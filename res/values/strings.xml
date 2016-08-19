@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="theme">\t\t  这是:\n\n萨达哈鲁\n\n银魂连连看！！\n欢迎去CSDN以及github探讨</string>
+    <string name="title">  萨达哈鲁写的，欢迎访问CSDN以及github   </string>
+    <string name="title_start">点这里开始</string>
+    <string name="title_set">点这里设置</string>
+    <string name="title_about">关于这个游戏</string>
+    <string name="title_exit">离开我</string>
+    <string name="app_name">连连看君</string>
+    <string name="score">哈哈，分数：</string>
+    <string name="startgame">重开</string>
+    <string name="refresh">放技能</string>
+    <string name="exit">出去</string>
+    <string name="exit_title">分手</string>
+    <string name="del_title">忘记</string>
+    <string name="exit_msg">您真的要离开我？</string>
+    <string name="del_msg">您确定不要我们的记忆了？</string>
+    <string name="del_ok">删除记忆成功！</string>
+    <string name="ok_btn">无情确定</string>
+    <string name="cancel_btn">深情挽回</string>
+    <string name="notime_msg">快点哦！剩余时间\n不多了^_^</string>
+    <string name="next">\n\t胜利!第</string>
+    <string name="overnotice">时间没了，哈哈哈,你输了 :(\n得分"</string>
+    <string name="exitnotice">回主界面，再按一次退出游戏！</string>
+    <string name="isDeadNotice">无图可以消除\n重新排列！</string>
+    <string name="recovery_title">恢复</string>
+    <string name="recovery_msg">是否恢复我们第一次见时？</string>
+    <string name="recovery_ok">恢复第一次见时状态成功！</string>
+    <string name="save_title">改变</string>
+    <string name="save_msg">\n是否保存对我的改变？</string>
+    <string name="save_ok">改变成功！</string>
+    <string name="victory_title">恭喜得了</string>
+    <string name="victory_msg">您创造了新的世界记录，\n输入您的美名\n</string>
+    <string name="tome_title">和我们约会</string>
+    <string name="tome_msg">哪里不爽可以向我BB两句，有机率改正！</string>
+    <string name="tome_ok">好的！\n不过改不改看我心情！</string>
+    <string name="tofriend_title">安利给好友</string>
+    <string name="tofriend_msg">输入您的好友手机号码，如：13838389438。多个人用空格分隔开来！</string>
+    <string name="tofriend_ok">多谢你的 支持，\n么么哒！</string>
+    <string name="safe_msg">(点击会发送短信，不收取任何费用！)</string>
+    <string name="tofriend_notice">快来！！！这个好玩的很啊，不好玩我哭给你看。我正在玩萨达哈鲁的连连看游戏，\n我的最高分是</string>
+    <string name="msg_error">你是不是欠费了，发送失败！！</string>
+    <string name="ctrl_title">操作</string>
+    <string name="no_msg">**************************</string>
+
+    <string-array name="menu">
+        <item>要声音吗~</item>
+        <item>要震动吗~</item>
+        <item>难度咋样</item>
+        <item>我帅吗？</item>
+        <item>恢复初识</item>
+        <item>改变退出</item>
+    </string-array>
+
+    <string name="music">要声音吗~</string>
+
+    <string-array name="musicItem">
+        <item>要~真好听</item>
+        <item>不要！吵</item>
+    </string-array>
+
+    <string name="vibrator">要震动吗~</string>
+
+    <string-array name="vibratorItem">
+        <item>开着更有感觉</item>
+        <item>都要震哭了</item>
+    </string-array>
+
+    <string name="count">难度咋样</string>
+
+    <string-array name="countItem">
+        <item>轻松加愉快</item>
+        <item>一般般啦</item>
+        <item>小难</item>
+        <item>有点难 </item>
+    </string-array>
+
+    <string name="style">我帅吗？</string>
+
+    <string-array name="styleItem">
+        <item>帅</item>
+        <item>不帅</item>
+    </string-array>
+    <string-array name="about">
+        <item>最厉害的高分</item>
+        <item>清除最厉害的</item>
+        <item>安利游戏给好友</item>
+        <item>联系我们吐吐槽</item>
+        <item>游戏的基础规则</item>
+        <item>返回上面的页面</item>
+    </string-array>
+
+    
+    <string name="title_activity_">Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_score">ScoreActivity</string>
+
+</resources>

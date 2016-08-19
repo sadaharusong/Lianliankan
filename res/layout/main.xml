@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back3"
+    android:layout_marginBottom="0sp"
+>
+
+<TextView  
+	android:id="@+id/tv"
+    android:layout_width="fill_parent" 
+    android:layout_height="20sp" 
+    android:text="@string/title"
+    android:layout_marginTop="5sp"
+    android:paddingLeft="25sp"
+    android:layout_marginBottom="5sp"
+    android:layout_gravity="center_vertical"
+    android:textColor="@color/red"
+    android:textSize="15sp"
+    />
+    
+<ProgressBar 
+	android:id="@+id/pb" 
+	android:layout_marginLeft="50sp"
+	android:layout_width="237sp" 
+	android:layout_height="36sp"
+	style="?android:attr/progressBarStyleHorizontal"
+/>
+
+
+<lianliankan.LLK.CtrlView
+	android:id="@+id/cv"
+	android:layout_width="fill_parent" 
+	android:layout_height="340sp"
+	android:layout_marginTop="-20sp"
+	android:layout_marginLeft="-10sp"
+	android:layout_marginRight="-13sp"
+/>
+
+<TextView  
+	android:id="@+id/msg"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textSize="30sp"
+    android:layout_marginLeft="130sp"
+    android:layout_marginTop="-30sp"
+    android:textColor="@color/blue"
+    android:text="0"
+/>
+
+<ImageButton
+	android:id="@+id/menu"
+	android:layout_width="200sp" 
+    android:layout_height="100sp" 
+    android:layout_marginLeft="100sp"
+    android:background="#00000000"
+/>
+
+</LinearLayout>

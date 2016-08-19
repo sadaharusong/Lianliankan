@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:id="@+id/widget0"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/back"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+	<TextView 
+		android:id="@+id/logo"
+		android:layout_width="300dp" 
+		android:layout_height="200dp"
+		android:paddingTop="15dp"
+		android:paddingLeft="4dp"
+		android:background="@drawable/dialog"
+		android:layout_x="30dp" 
+		android:layout_y="100dp"
+		android:text="@string/theme"
+		android:textColor="@color/purple"
+		android:textSize="20sp"
+		android:textStyle="bold"
+	/>
+	
+</AbsoluteLayout>
